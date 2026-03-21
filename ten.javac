@@ -1,0 +1,20 @@
+import java until*;
+class ten
+{
+Static public void main(String() args)
+{
+int x,y;
+Scanner s1 = new Scanner(System.in);
+System.out.print("Enter x value");
+x = Integer.parse Int(s1.nextLine());
+System.out.print("Enter y value");
+y = Integer.parse Int(s1.nextLine());
+if (x>y)
+{
+System.out.print("x is greater then y");
+}
+else
+{
+System.out.print("y is greater then x");
+}}
+}
